@@ -1,0 +1,7 @@
+{
+    "todos" : [
+      {"id":1,"task": "task1","status":false},
+      {"id":2,"task": "task2","status":false},
+      {"id":3,"task": "task3","status":false}
+    ]
+  }
